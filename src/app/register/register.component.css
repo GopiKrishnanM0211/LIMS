@@ -1,0 +1,49 @@
+
+
+.btn-login{
+    background: #f7db07; 
+    color:#f90808; 
+    font-weight:600;
+}
+.age{
+    width: 100px;
+}
+.email{
+    width: 400px;
+}
+.gender{
+    width: 150px;
+}
+
+
+.border-style{
+    border: solid 2px;
+    border-color: grey;
+    border-radius: 2px;
+    padding: 20px;
+    margin: 10px;
+
+}
+.form-control{
+    border: 1px solid #000000;
+}
+.form-select{
+    border: 1px solid #000000;
+}
+.tag{
+    display: table;
+   
+}
+.checkbox-container{
+    float:inline-start;
+    width: 25%;
+    
+    height: 50px;
+
+}
+h3{
+    color: red;
+}
+.save{
+    margin-left: 695px;
+}
